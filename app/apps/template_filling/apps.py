@@ -1,0 +1,7 @@
+```python
+from django.apps import AppConfig
+
+class TemplateFillingConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'template_filling'
+```
